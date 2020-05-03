@@ -7,6 +7,5 @@ private String training;
 	{
 		this.training = training;
 		System.out.println("Viewer changed training to "+ this.training);
-
 	}
 }

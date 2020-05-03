@@ -19,6 +19,7 @@ public class Trainee implements Observable {
 		}
 		
 	}
+	
 	@Override
 	public String getUpdate() {
 		return training;
@@ -35,8 +36,4 @@ public class Trainee implements Observable {
 	public void unsubscribe(Observer observer) {
 		this.observers.remove(observer);
 	}
-
-	
-
-	
 }
