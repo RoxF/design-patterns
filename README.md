@@ -11,3 +11,8 @@
 ### Command
 
 [Link](https://github.com/RoxF/design-patterns/tree/master/src/Command)
+
+#
+### Factory and Mediator
+
+[Link](https://github.com/RoxF/design-patterns/tree/master/src/FactoryAndMediator)
